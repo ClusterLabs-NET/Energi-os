@@ -1,0 +1,8 @@
+{
+  "name": "CloudTwin - TEAM BUILD",
+  "description": "Enterprise Virtual Pipeline OS & Digital Twin for CloudEnergi",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
